@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOOPSpecialSeminar", "CSharpOOPSpecialSeminar\CSharpOOPSpecialSeminar.csproj", "{AA6CAA02-146A-4F6A-B6A9-895401268B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6CAA02-146A-4F6A-B6A9-895401268B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6CAA02-146A-4F6A-B6A9-895401268B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6CAA02-146A-4F6A-B6A9-895401268B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6CAA02-146A-4F6A-B6A9-895401268B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB612EC-1EFB-4C4E-83EB-4093CDCA06C9}
+	EndGlobalSection
+EndGlobal
